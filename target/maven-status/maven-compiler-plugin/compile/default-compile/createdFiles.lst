@@ -1,0 +1,7 @@
+com/hello/azuresqldb/entity/HelloEvent.class
+com/hello/azuresqldb/service/HelloEventService.class
+com/hello/azuresqldb/CommonHelloEventApplication.class
+com/hello/azuresqldb/service/impl/HelloEventServiceImpl.class
+com/hello/azuresqldb/resource/impl/HelloEventResourceImpl.class
+com/hello/azuresqldb/repository/HelloEventRepository.class
+com/hello/azuresqldb/resource/HelloEventResource.class
